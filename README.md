@@ -1,1 +1,1 @@
-# backend api untuk aplikasi movies yg dikembangakan oleh fhad saleh
+# backend api untuk aplikasi movies dengan menggunakan Java Spring Boot dan postgre untuk DB nya. Dikembangakan oleh fhad saleh
